@@ -1,2 +1,2 @@
 # Aula-12-05-Senai
-Aula feita comentado sobre como usar a API do Weather 
+Aula mostrando como implemetar o Apache2 no Linux
