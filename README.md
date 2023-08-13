@@ -3,5 +3,5 @@ Aula mostrando como implemetar o Apache2 no Linux com uma página que mostra as 
 
 | Funciona em |
 | ------- | 
-.HTML| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
-.PHP
+HTML| [{{ activity.lab.title }}]({{ site.github.url }}{{ activity.url }}) |
+PHP
