@@ -6,7 +6,7 @@ const temperature = document.getElementById('temperature');
 const condition = document.getElementById('condition');
 //Define as informações que queremos trazer
 
-const apiUrl='https://api.openweathermap.org/data/2.5/weather?q=Sao Paulo&appid=' + apiKey;
+const apiUrl='https://api.openweathermap.org/data/2.5/weather?q=Sao Paulo&lang=pt&appid=' + apiKey;
 
 fetch()
 fetch(apiUrl)
