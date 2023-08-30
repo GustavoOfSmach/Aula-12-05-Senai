@@ -8,4 +8,5 @@ PHP
 
 
 _Observação_
+
 A chave de autenticação da API foi removida. para fazer funciona https://openweathermap.org/api
