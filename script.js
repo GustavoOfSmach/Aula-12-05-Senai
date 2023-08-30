@@ -1,4 +1,4 @@
-const apiKey='e866ac8f08c08e2e6c8f10eef88d0f30';
+const apiKey='SUA-API-AQUI';
 //Define uma constante que armazena a sua chave de API
 
 const city = document.getElementById('city');
