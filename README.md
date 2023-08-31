@@ -10,4 +10,4 @@ PHP
 
 _Observação_
 
-O script precisa de uma API para funcionar veja a sua por: https://openweathermap.org/api
+O script precisa de uma API para funcionar adquira a sua por: https://openweathermap.org/api
