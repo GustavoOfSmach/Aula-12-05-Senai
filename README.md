@@ -10,4 +10,4 @@ PHP
 
 _Observação_
 
-A chave de autenticação da API foi removida. para fazer o codigo funcionar adquira sua api por aqui https://openweathermap.org/api
+O script precisa de uma API para funcionar para adquirir sua API acesse  https://openweathermap.org/api
